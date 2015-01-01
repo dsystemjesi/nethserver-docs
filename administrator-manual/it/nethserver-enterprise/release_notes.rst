@@ -90,7 +90,7 @@ Il nuovo visualizzatore dei log consente di consultare, ricercare e seguire in t
 Backup
 ======
 
-Il modulo di backup *non* è installato nella configurazione base ed è suddiviso in due parti: backup della configurazione e backup dei dati.
+Il modulo di backup è installato nella configurazione base ed è suddiviso in due parti: backup della configurazione e backup dei dati.
 
 Il backup della configurazione è automatico e consente di ripristinare velocemente un sistema per minimizzare la discontinuità di servizio. 
 In caso di guasto, sarà possibile ripristinare il backup della configurazione e consentire agli utenti di riprendere
